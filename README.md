@@ -1,5 +1,6 @@
 <!--START-->
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <!--GITHUB GIF-->
 <div align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
@@ -29,6 +30,8 @@ Hello, my name is <b>Aditya Ganti</b>, a `Computer Science` Masters' student at 
 <br>I'm currently collaborating with a Seattle-based startup for my Masters' CAPSTONE Project, building a stock-analysis tool that allows users to define and visualize custom metrics for their watchlists.
 <br>I've also been a Graduate Teaching Assistant at Seattle University for the entire duration of my program, having supervised Database Systems, Web Development, Object-Oriented Programming, and Security in Computing courses.
 
+
+<i class="devicon-typescript-plain"></i>          
 In addition to my coursework, I interned as an SDE at <a href="https://www.storable.com/">Storable</a> last summer. My internship had me working on a platform service, where
 * I pushed code into production! (I'm super proud of this)
   * I created new API endpoints, and sanitized input payloads
