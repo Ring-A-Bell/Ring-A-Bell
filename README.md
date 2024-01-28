@@ -3,11 +3,11 @@
           
 <!--GITHUB GIF-->
 <div align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ4YzF2MXlucG5vYnU4MXl5c2xweG40anhqc3B0NG5pcmF2czNiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/101DNxoBTatF16/giphy.gif" alt="Scary Movie"> 
 </div>
 
 <!--INTRODUCTION-->
-<h1 align="center"> Wasssssssuuuuuuuup, it's Adi here </h1>
+<h1 align="center"> Waaaazzzzzzuuuuuuuup, it's Adi here </h1>
 
 <!--BADGES-->
 <!--
