@@ -24,11 +24,21 @@
   <li> Looking for New Grad SDE roles!
 </ul>   -->
 
-Hello, my name is <b>Adi</b>, a `Computer Science` graduate student at Seattle University, `specializing in Data Science`. What excites me most is building robust software systems and diving into the vast world of math and data science.
+Hello, my name is <b>Aditya Ganti</b>, a `Computer Science` Masters' student at Seattle University, with a specialization in `Software Engineering`. I've taken, and passed, the world's toughest engineering exam. That thought process & mindset is what I bring to build great software.
 
-Currently, as a `data science researcher` at my university, I'm involved in exploring synthetic data generation algorithms. Through this work, I've not only gained valuable research experience but also achieved concrete results – notably improving classification accuracy by `10%` through fine-tuned data augmentation algorithms, which contributed to more accurate predictions and insights.
+<br>I'm currently collaborating with a Seattle-based startup for my Masters' CAPSTONE Project, building a stock-analysis tool that allows users to define and visualize custom metrics for their watchlists.
+<br>I've also been a Graduate Teaching Assistant at Seattle University for the entire duration of my program, having supervised Database Systems, Web Development, Object-Oriented Programming, and Security in Computing courses.
 
-In addition to my research, I have a strong passion for hands-on coding and project development. I've had the opportunity to work on big data projects where I've designed and implemented `data pipelines` using Spark and Airflow, facilitating efficient data processing and analytics.
+In addition to my coursework, I interned as an SDE at <a href="https://www.storable.com/">Storable</a> last summer. My internship had me working on a platform service, where
+* I pushed code into production! (I'm super proud of this)
+  * I created new API endpoints, and sanitized input payloads
+  * Wrote tests that covered every line of code I added. 
+  * I used MikroORM to implement DTOs, and wrote custom data models.
+  * The infrastructure I built acted like an abstraction layer, data normalization layer & API contract.
+* Worked directly with the senior software architect of the company
+  * The art of _"Getting Unblocked"_ is my greatest strength, he said
+* Conducted a workshop on JWT, AuthZ, & AuthN, for the entire office
+  * Senior engineers started arguing, so I learnt an INSANE amount in only 30 mins :p
 
 My proficiency in Java, Python, TensorFlow, SQL, and big data tools, combined with my deep commitment to data-driven problem-solving, makes me well-equipped to drive innovation in the field. I take pride in my strong teamwork and communication skills, which have been integral to the success of various collaborative projects.
 
