@@ -28,7 +28,7 @@
 Hello, my name is <b>Aditya Ganti</b>, a `Computer Science` Masters' student at Seattle University, with a specialization in `Software Engineering`. I've taken, and passed, the world's toughest engineering exam. That thought process & mindset is what I bring to build great software.
 
 <br>I'm currently collaborating with a Seattle-based startup for my Masters' CAPSTONE Project, building a stock-analysis tool that allows users to define and visualize custom metrics for their watchlists.
-<br>I've also been a Graduate Teaching Assistant at Seattle University for the entire duration of my program, having supervised Database Systems, Web Development, Object-Oriented Programming, and Security in Computing courses.
+<br>I've also been a **Graduate Teaching Assistant** at Seattle University for the entire duration of my program, having supervised `Database Systems`, `Web Development`, `Object-Oriented Programming` and `Security in Computing` courses.
                   
 In addition to my coursework, I interned as an SDE at <a href="https://www.storable.com/">Storable</a> last summer. My internship had me working on a platform service, where
 * I pushed code into production! (I'm super proud of this)
@@ -36,6 +36,7 @@ In addition to my coursework, I interned as an SDE at <a href="https://www.stora
   * Wrote tests that covered every line of code I added. 
   * I used MikroORM to implement DTOs, and wrote custom data models.
   * The infrastructure I built acted like an abstraction layer, data normalization layer & API contract.
+* Worked on creating a Typescript NPM package for abstracting API calls
 * Worked directly with the senior software architect of the company
   * The art of _"Getting Unblocked"_ is my greatest strength, he said
 * Conducted a workshop on JWT, AuthZ, & AuthN, for the entire office
@@ -58,11 +59,10 @@ In addition to my coursework, I interned as an SDE at <a href="https://www.stora
   </tr>
 </table>
 
-My proficiency in Java, Python, TensorFlow, SQL, and big data tools, combined with my deep commitment to data-driven problem-solving, makes me well-equipped to drive innovation in the field. I take pride in my strong teamwork and communication skills, which have been integral to the success of various collaborative projects.
+My undergraduate CAPSTONE project involved React, nodeJS, Express and Firebase. I created a web-app that analyzes the user's yoga pose, scores it based on how well they're performing it, and provides real-time feedback to improve it. This was hosted via Firebase, and is live at <a href="https://yogaasaan.co/>">Yogasaan</a>
 
-As I'm on track to graduate in `June 2024`, I'm actively seeking a Full-Time Software Engineering role, and I genuinely believe that my passion and knowledge would make me a great fit for your team!
+I graduate in `March 2024`, which means that I'm more than ready to start working in a **full-time** role. I love sports, cars, architecture, hip-hop and Taylor Swift. I'm the coworker you're missing :)
 
-Thank you for your consideration!
 
 <!-- Adding a one-liner for each project
 - GTA V
@@ -76,13 +76,15 @@ Thank you for your consideration!
 - -->
 
 <!--GITHUB STREAK-->
-<br>
-<p align = "center">
+<br><p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ring-A-Bell&" alt="Aditya Ganti" />
+  
+  > **P.S:**  Don't believe the stats, I'm very active here :)
 </p>
 
+
 <!--CURRENTLY WORKING ON-->
-<h2 align="center"> Currently Working on </h2>
+<br><h2 align="center"> Currently Working on </h2>
 <table align="center">
   <tr align="center">
     <td valign="top" width="100%">
@@ -95,7 +97,11 @@ Thank you for your consideration!
     </td>
   </tr>
 </table>
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+
+
+<br>If you read this entire thing, I have no words :p
+<br>Thanks!
 <!--FAV PROJECTS-->
 <!--
 <br>
