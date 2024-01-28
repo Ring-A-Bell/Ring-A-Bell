@@ -29,9 +29,7 @@ Hello, my name is <b>Aditya Ganti</b>, a `Computer Science` Masters' student at 
 
 <br>I'm currently collaborating with a Seattle-based startup for my Masters' CAPSTONE Project, building a stock-analysis tool that allows users to define and visualize custom metrics for their watchlists.
 <br>I've also been a Graduate Teaching Assistant at Seattle University for the entire duration of my program, having supervised Database Systems, Web Development, Object-Oriented Programming, and Security in Computing courses.
-
-
-<i class="devicon-typescript-plain"></i>          
+                  
 In addition to my coursework, I interned as an SDE at <a href="https://www.storable.com/">Storable</a> last summer. My internship had me working on a platform service, where
 * I pushed code into production! (I'm super proud of this)
   * I created new API endpoints, and sanitized input payloads
@@ -42,6 +40,23 @@ In addition to my coursework, I interned as an SDE at <a href="https://www.stora
   * The art of _"Getting Unblocked"_ is my greatest strength, he said
 * Conducted a workshop on JWT, AuthZ, & AuthN, for the entire office
   * Senior engineers started arguing, so I learnt an INSANE amount in only 30 mins :p
+
+
+<br><h2 align="center"> Languages and Frameworks </h2>
+<table align="center">
+  <tr align="center">
+    <td valign="top" width="100%">
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+      <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+    </td>
+  </tr>
+</table>
 
 My proficiency in Java, Python, TensorFlow, SQL, and big data tools, combined with my deep commitment to data-driven problem-solving, makes me well-equipped to drive innovation in the field. I take pride in my strong teamwork and communication skills, which have been integral to the success of various collaborative projects.
 
@@ -80,7 +95,7 @@ Thank you for your consideration!
     </td>
   </tr>
 </table>
-
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!--FAV PROJECTS-->
 <!--
 <br>
